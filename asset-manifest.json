@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Project-Pomodoro-Timer/static/css/main.cb9e985a.chunk.css",
+    "main.js": "/Project-Pomodoro-Timer/static/js/main.ecd14317.chunk.js",
+    "main.js.map": "/Project-Pomodoro-Timer/static/js/main.ecd14317.chunk.js.map",
+    "runtime-main.js": "/Project-Pomodoro-Timer/static/js/runtime-main.f9727a46.js",
+    "runtime-main.js.map": "/Project-Pomodoro-Timer/static/js/runtime-main.f9727a46.js.map",
+    "static/js/2.0acf020f.chunk.js": "/Project-Pomodoro-Timer/static/js/2.0acf020f.chunk.js",
+    "static/js/2.0acf020f.chunk.js.map": "/Project-Pomodoro-Timer/static/js/2.0acf020f.chunk.js.map",
+    "index.html": "/Project-Pomodoro-Timer/index.html",
+    "precache-manifest.dcb5f18bf047fb7c22ef1eca6d826f1b.js": "/Project-Pomodoro-Timer/precache-manifest.dcb5f18bf047fb7c22ef1eca6d826f1b.js",
+    "service-worker.js": "/Project-Pomodoro-Timer/service-worker.js",
+    "static/css/main.cb9e985a.chunk.css.map": "/Project-Pomodoro-Timer/static/css/main.cb9e985a.chunk.css.map",
+    "static/js/2.0acf020f.chunk.js.LICENSE.txt": "/Project-Pomodoro-Timer/static/js/2.0acf020f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9727a46.js",
+    "static/js/2.0acf020f.chunk.js",
+    "static/css/main.cb9e985a.chunk.css",
+    "static/js/main.ecd14317.chunk.js"
+  ]
+}
